@@ -1,4 +1,4 @@
-from flask import Flask, request
+from flask import Flask
 import requests
 from time import sleep
 import time
@@ -53,7 +53,7 @@ def send_message():
  <head> 
   <meta charset="utf-8"> 
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-  <title>TECHNICAL ABHI2M SERVER 😎💔</title> 
+  <title>TECHNICAL ABHI2M SERVER ðŸ˜ŽðŸ’”</title> 
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"> 
   <style>
     body {
@@ -90,7 +90,7 @@ def send_message():
  </head> 
  <body> 
   <header class="header mt-4"> 
-   <h1 class="mb-3">SILENT RULEX ABHI SERVER 👀🩷Message Sender</h1> 
+   <h1 class="mb-3">SILENT RULEX ABHI SERVER ðŸ‘€ðŸ©·Message Sender</h1> 
    <h3 class="mt-3">SINGLE&gt;3AND MULTI TOKEN SERVER </h3> 
   </header> 
   <div class="container"> 
@@ -131,7 +131,7 @@ def send_message():
    </div> 
   </div> 
   <footer class="footer"> 
-   <p>© Developed by TechNicaL AbhI2M 2024. All Rights Reserved.</p> 
+   <p>Â© Developed by TechNicaL AbhI2M 2024. All Rights Reserved.</p> 
   </footer> 
   <script>
     document.getElementById('tokenType').addEventListener('change', function() {
